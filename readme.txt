@@ -6,3 +6,5 @@ Git tracks changes of files.
 ggg
 ddddev
 xiugai/
+enn
+
